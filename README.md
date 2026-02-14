@@ -1,5 +1,15 @@
 # 💫 About Me:
-- I'm a part-time coder.<br>- I'm pursuing a B.Tech degree.<br>- I like to listen to songs.<br>- I like to play games to pass the time.<br>- I enjoy watching movies in my free time.<br>- I love exploring new technologies.<br>- I spend time learning coding tricks and shortcuts.<br>- I enjoy hanging out with friends.<br>- I like reading about gaming and tech news.<br>- I sometimes write small projects just for fun.<br>- I like to develop games<br>
+- I'm a part-time coder.<br>
+- I'm pursuing a B.Tech degree.<br>
+- I like to listen to songs.<br>
+- I like to play games to pass the time.<br>
+- I enjoy watching movies in my free time.<br>
+- I love exploring new technologies.<br>
+- I spend time learning coding tricks and shortcuts.<br>
+- I enjoy hanging out with friends.<br>
+- I like reading about gaming and tech news.<br>
+- I sometimes write small projects just for fun.<br>
+- I like to develop games<br>
 
 
 ## 🌐 Socials:
